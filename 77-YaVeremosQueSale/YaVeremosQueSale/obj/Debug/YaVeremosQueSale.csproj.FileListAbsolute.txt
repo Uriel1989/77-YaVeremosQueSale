@@ -1,0 +1,6 @@
+C:\Users\tauro\Desktop\YaVeremosQueSale\YaVeremosQueSale\bin\Debug\YaVeremosQueSale.exe
+C:\Users\tauro\Desktop\YaVeremosQueSale\YaVeremosQueSale\bin\Debug\YaVeremosQueSale.pdb
+C:\Users\tauro\Desktop\YaVeremosQueSale\YaVeremosQueSale\obj\Debug\YaVeremosQueSale.csprojAssemblyReference.cache
+C:\Users\tauro\Desktop\YaVeremosQueSale\YaVeremosQueSale\obj\Debug\YaVeremosQueSale.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Desktop\YaVeremosQueSale\YaVeremosQueSale\obj\Debug\YaVeremosQueSale.exe
+C:\Users\tauro\Desktop\YaVeremosQueSale\YaVeremosQueSale\obj\Debug\YaVeremosQueSale.pdb
